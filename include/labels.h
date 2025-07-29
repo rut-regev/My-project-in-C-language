@@ -1,0 +1,5 @@
+
+#define AMONT_COMMAND 16
+#define AMONT_GUIDANCE 4
+
+#define AMONT_REGISTERS 8
